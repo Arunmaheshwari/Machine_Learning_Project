@@ -1,6 +1,8 @@
 pandas 
-seaborn
 numpy
+seaborn
+matplotlib
 
 
--e .
+
+#-e .            # it is for installing package, whatever code we have written in my setup.py files
